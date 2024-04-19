@@ -1,3 +1,5 @@
+O código está compactado por zip. Basta extrair e importar na IDE.
+
 O código está com algum problema para inserir os dados no banco local, as informações são convertidas em null e geram um id. Não consegui contornar então tentei aplicar todo o restante do desafio para poder entregar algo. Executei pelo postman os métodos.  
 
 acesso ao banco local:
