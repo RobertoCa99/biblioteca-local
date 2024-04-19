@@ -2,7 +2,7 @@ O código está com algum problema para inserir os dados no banco local, as info
 
 acesso ao banco local:
 http://localhost:8080/h2-console
-spring.application.name=biblioteca-local
+spring.application.name=biblioteca-local |
  DATASOURCE
 spring.datasource.driverClassName=org.h2.Driver
 spring.datasource.url=jdbc:h2:mem:testdb
